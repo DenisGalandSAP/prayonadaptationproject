@@ -1,0 +1,10 @@
+<!-- Use stable and unique id's!-->
+<core:FragmentDefinition xmlns:core='sap.ui.core'
+    xmlns="sap.m">
+    <OverflowToolbar id="test56">
+        <ToolbarSpacer id="toolbarspacer0"/>
+        <Button id="button128"
+            text="test"
+            press=".extension.ztest3.test.onCustomButtonPress"/>
+    </OverflowToolbar>
+</core:FragmentDefinition>

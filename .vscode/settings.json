@@ -1,0 +1,27 @@
+{
+  "ports.excludeExposeNotification": {
+    "ports": [
+      6005
+    ]
+  },
+  "Adaptation Project.componentname": "i2d.qm.inspresults.records1",
+  "Adaptation Project.safeMode": false,
+  "Adaptation Project.appvariant": "ztest3",
+  "Adaptation Project.layer": "CUSTOMER_BASE",
+  "Adaptation Project.sourceSystem": "Prayon",
+  "Adaptation Project.isOVPApp": false,
+  "Adaptation Project.isFioriElement": false,
+  "Adaptation Project.destinations": [
+    {
+      "name": "Prayon",
+      "url": "http://vhcalm19ci:4300",
+      "proxyType": "OnPremise"
+    },
+    {
+      "name": "sapui5",
+      "url": "http://sapui5.hana.ondemand.com/1.71.34"
+    }
+],
+"[xml].editor.defaultFormatter": "dotjoshjohnson.xml",
+"[plaintext].editor.defaultFormatter": "dotjoshjohnson.xml"
+}

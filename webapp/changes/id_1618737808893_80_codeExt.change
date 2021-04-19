@@ -1,0 +1,40 @@
+{
+	"fileName": "id_1618737808893_80_codeExt",
+	"fileType": "change",
+	"changeType": "codeExt",
+	"moduleName": "",
+	"reference": "customer.ztest3",
+	"packageName": "$TMP",
+	"content": {
+		"codeRef": "coding/test.js"
+	},
+	"selector": {
+		"controllerName": "i2d.qm.inspresults.records1.controller.Worklist"
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/i2d.qm.inspresults.records1/changes/",
+	"projectId": "customer.ztest3",
+	"creation": "2021-04-18T09:23:28.895Z",
+	"originalLanguage": "EN",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.71.29",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "7.0.30",
+		"from": "7.0.30",
+		"to": "7.0.30"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

@@ -1,0 +1,43 @@
+{
+	"fileName": "id_1618737514046_79_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "",
+	"reference": "customer.ztest3",
+	"packageName": "$TMP",
+	"content": {
+		"fragmentPath": "fragments/test.fragment.xml",
+		"targetAggregation": "customToolbar",
+		"index": 0
+	},
+	"selector": {
+		"id": "worklist--inspectionLotSmartTable",
+		"idIsLocal": true
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/i2d.qm.inspresults.records1/changes/",
+	"projectId": "customer.ztest3",
+	"creation": "2021-04-18T09:21:16.260Z",
+	"originalLanguage": "EN",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.71.29",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "7.0.30",
+		"from": "7.0.30",
+		"to": "7.0.30"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
